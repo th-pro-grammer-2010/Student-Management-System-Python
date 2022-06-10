@@ -1,0 +1,3 @@
+# write these commands in command prompt
+pip install tkinter
+pip install sqlite3
